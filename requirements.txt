@@ -1,6 +1,5 @@
 alabaster
 anaconda-client 
-anaconda-navigator==2.0.4
 anaconda-project @ file:///tmp/build/80754af9/anaconda-project_1626085644852/work
 anyio @ file:///C:/ci/anyio_1620153418380/work/dist
 appdirs==1.4.4
