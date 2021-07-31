@@ -76,7 +76,7 @@ search_query.send_keys('site:linkedin.com/in/ AND "python developer" AND "London
 search_query.send_keys(Keys.RETURN)
 
 
-soup = BeautifulSoup(driver.page_source, 'lxml')
+soup = BeautifulSoup(driver.page_source, 'html.parser')
 result_div = soup.find_all('div', attrs={'class': 'g'})
 
 
