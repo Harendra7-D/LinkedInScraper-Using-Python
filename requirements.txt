@@ -1,5 +1,5 @@
 alabaster
-anaconda-client @ file:///C:/ci/anaconda-client_1624480273070/work
+anaconda-client 
 anaconda-navigator==2.0.4
 anaconda-project @ file:///tmp/build/80754af9/anaconda-project_1626085644852/work
 anyio @ file:///C:/ci/anyio_1620153418380/work/dist
